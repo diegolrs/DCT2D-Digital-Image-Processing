@@ -7,7 +7,7 @@ A <a href="https://en.wikipedia.org/wiki/Discrete_cosine_transform">discrete cos
 It is used in most digital media, including digital images (such as JPEG and HEIF), digital video, digital audio, digital television and more.
 
 <p align="center">
-    <a href="https://www.mathworks.com/help/images/ref/dct2.html"><img src="res/formula.png" width="63%" height="63%"></a><br>
+    <a href="https://www.mathworks.com/help/images/ref/dct2.html"><img src="res/formula.png" width="66%" height="66%"></a><br>
     (Reference: https://www.mathworks.com/help/images/ref/dct2.html)
 </p>
 
