@@ -1,6 +1,6 @@
 # DCT2D-Images
 This project computes the two-dimensional discrete cosine transform (DCT2D) of an image an its inverse.
-The DCT2D concept was present to me by Professor Leonardo Vidal Batista, from the Scientific Computer Departament (DCC) at Federal University of Paraiba, in the Digital Image Processing class.
+The DCT2D concept was present to me by Professor Leonardo Vidal Batista, from the Scientific Computer Departament (DCC) at Federal University of Paraiba(UFPB), in the Digital Image Processing class.
 
 ## About DCT (Discrete Cosine Transform)
 A <a href="https://en.wikipedia.org/wiki/Discrete_cosine_transform">discrete cosine transform (DCT)</a> expresses a finite sequence of data points in terms of a sum of cosine functions oscillating at different frequencies. 
